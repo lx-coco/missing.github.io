@@ -1,5 +1,4 @@
----
-layout: lecture
+: lecture
 title: "开设此课程的动机"
 ---
 
@@ -15,7 +14,7 @@ title: "开设此课程的动机"
 地使用，因此浪费了时间和精力在本来可以更简单的任务上。标准的计算机科学课程缺少了这门能让计算
 变得更简捷的关键课程。
 
-# The missing semester of your CS education
+#The missing semester of your CS education
 
 为了解决这个问题，我们开设了一个课程，涵盖各项对成为高效率计算机科学家或程序员至关重要的
 主题。这个课程实用且具有很强的实践性，提供了各种能够立即广泛应用解决问题的趁手工具指导。
@@ -34,8 +33,6 @@ title: "开设此课程的动机"
 在历史记录中跳转的一些技巧。
 
 <video autoplay="autoplay" loop="loop" controls muted playsinline  oncontextmenu="return false;"  preload="auto"  class="demo">
-  <source src="/static/media/demos/history.mp4" type="video/mp4">
-</video>
 
 ## 版本控制
 
@@ -46,11 +43,11 @@ title: "开设此课程的动机"
 
 下面这个示例中，我们使用`git bisect`来定位哪个提交破坏了单元测试，并且通过`git revert`来进行修复。
 
-<video autoplay="autoplay" loop="loop" controls muted playsinline  oncontextmenu="return false;"  preload="auto"  class="demo">
+<oplay="autoplay" loop="loop" controls menu="return false;"  preload="auto"  class="demo">
   <source src="/static/media/demos/git.mp4" type="video/mp4">
 </video>
 
-## 文本编辑
+##本编辑
 
 不论是本地还是远程，如何通过命令行高效地编辑文件，并且充分利用编辑器特性。不再来回复制
 文件。不再重复编辑文件。
