@@ -7,7 +7,7 @@ Website for the [The Missing Semester of Your CS Education](https://missing.csai
 
 Contributions are most welcome! If you have edits or new content to add, please open an issue or submit a pull request.
 
-## Development
+##Development
 
 To build and view the site locally, run:
 
@@ -15,9 +15,9 @@ To build and view the site locally, run:
 bundle exec jekyll serve -w
 ```
 
-## License
+##License
 
-All the content in this course, including the website source code, lecture notes, exercises, and lecture videos is licensed under Attribution-NonCommercial-ShareAlike 4.0 International [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). See [here](https://missing.csail.mit.edu/license) for more information on contributions or translations.
+All the content in this course, including the website source code, lecture notes, exercises, and lecture videos is licensed under Attribution-NonCommercial-ShareAlike 4.0 Internatio.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). See [here](https://missing.csail.mit.edu/license) for more information on contributions or translations.
 
 -----------------
 
@@ -26,7 +26,7 @@ All the content in this course, including the website source code, lecture notes
 To contribute to this tanslation project, please book your topic by creating an issue and I will update this table accordingly to avoid rework.
 
 |  lectures   | translator  | status |
-|  ----  | ----  |----  |
+
 | [course-shell.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/_2020/course-shell.md)  | [@Lingfeng AI](https://github.com/hanxiaomax) | Done |
 | [shell-tools.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/_2020/shell-tools.md)  | [@Lingfeng AI](https://github.com/hanxiaomax) | Done |
 | [editors.md](https://github.com/missing-semester-cn/missing-semester-cn.github.io/blob/master/_2020/editors.md)  |  [@stechu](https://github.com/stechu) | Done |
@@ -43,4 +43,4 @@ To contribute to this tanslation project, please book your topic by creating an 
 
 ## 新项目
 
-[Learncpp中文版](https://github.com/hanxiaomax/Learncpp_CN)
+[Learncpp中文版](https://github.com/hanxiaomax/
